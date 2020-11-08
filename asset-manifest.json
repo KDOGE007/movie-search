@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KDOGE007/movie-search/static/css/main.988f3ae6.chunk.css",
+    "main.js": "/KDOGE007/movie-search/static/js/main.ad24ec5e.chunk.js",
+    "main.js.map": "/KDOGE007/movie-search/static/js/main.ad24ec5e.chunk.js.map",
+    "runtime-main.js": "/KDOGE007/movie-search/static/js/runtime-main.8640cdb2.js",
+    "runtime-main.js.map": "/KDOGE007/movie-search/static/js/runtime-main.8640cdb2.js.map",
+    "static/js/2.3a51e27d.chunk.js": "/KDOGE007/movie-search/static/js/2.3a51e27d.chunk.js",
+    "static/js/2.3a51e27d.chunk.js.map": "/KDOGE007/movie-search/static/js/2.3a51e27d.chunk.js.map",
+    "index.html": "/KDOGE007/movie-search/index.html",
+    "static/css/main.988f3ae6.chunk.css.map": "/KDOGE007/movie-search/static/css/main.988f3ae6.chunk.css.map",
+    "static/js/2.3a51e27d.chunk.js.LICENSE.txt": "/KDOGE007/movie-search/static/js/2.3a51e27d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8640cdb2.js",
+    "static/js/2.3a51e27d.chunk.js",
+    "static/css/main.988f3ae6.chunk.css",
+    "static/js/main.ad24ec5e.chunk.js"
+  ]
+}
