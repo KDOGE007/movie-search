@@ -92,6 +92,9 @@ small {
   display: block;
 }
 
+.contact-list a {
+  color: blue;
+}
 @media screen and (min-width: 786px) {
   .label {
     font-size: 1.6rem;
