@@ -70,7 +70,6 @@ small {
 .card-list {
   margin-top: 4rem;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   grid-gap: 1rem;
 }
 
@@ -103,6 +102,10 @@ small {
     grid-template-columns: auto 1fr auto;
     grid-gap: 1rem;
     align-items: center;
+  }
+  .card-list {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
   }
   .input {
     margin-bottom: 0rem;
